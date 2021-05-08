@@ -1,4 +1,5 @@
 # rpsls
+## Rock Paper Scissors Lizard Spock
 
 ## Project setup
 ```
